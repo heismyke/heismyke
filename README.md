@@ -26,9 +26,9 @@
 ---
 
 ### 🌐 **Connect With Me**  
-📫 **Email**: [hello@johndoe.com](mailto:hello@johndoe.com)  
-💼 **LinkedIn**: [in/johndoe](https://linkedin.com/in/johndoe)  
-🐙 **GitHub**: [@johndoe](https://github.com/johndoe)  
-📝 **Blog**: [johndoe.dev](https://johndoe.dev)  
+📫 **Email**: [hello@myke.com](mailto:mickienorman5@gmail.com)  
+💼 **LinkedIn**: [in/michael.s](https://www.linkedin.com/in/michael-shekwolo-8402111aa/)  
+🐙 **GitHub**: [@jheismyke](https://github.com/heismyke)  
+📝 **Blog**: [myke.dev](https://myke.dev)  
 
 *Open to collaborations on Go/embedded systems projects!*
