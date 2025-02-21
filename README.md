@@ -25,7 +25,7 @@
 #### 3. **Bootcamp Management System**  
    - Go-based backend for managing coding bootcamps  
    - Features: CRUD operations, role-based access, Swagger docs  
-   - [GitHub](https://github.com/heismyke/bootcamp-system)  
+   - [GitHub]((https://github.com/heismyke/bootcamp_v1))  
 
 ---
 
