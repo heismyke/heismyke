@@ -1,21 +1,34 @@
-### Hi there, I'm Michael 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heismyke&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heismyke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+# Michael.S 
+🚀 *Building Scalable Systems & Embedded Solutions*
 
+---
 
-# Technologies
-### Programming Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🔧 **Technical Stack**  
+**Languages**: `Go` `TypeScript` `C++`  
+**Cloud & DevOps**: `AWS` `Kubernetes` `Terraform` `GitLab CI/CD`  
+**Embedded/IoT**: `Arduino` `Raspberry Pi` `Sensor Networks`  
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+---
 
-### Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🏗️ **Key Projects**  
+1. **Distributed Task Scheduler** (Go/AWS)  
+   - Kubernetes-managed microservice handling 10k+ jobs/min  
+   - [GitHub](https://github.com/you/task-scheduler) | [Demo](https://demo.com)  
+
+2. **Smart Home Hub** (Arduino/TypeScript)  
+   - Low-latency IoT controller with OTA updates  
+   - [Hardware Design](https://example.com)  
+
+3. **Cloud Cost Optimizer** (Terraform/Go)  
+   - Reduced AWS spend by 37% via automated resource scaling  
+   - [Case Study](https://blog.com/cloud-optimizer)  
+
+---
+
+### 🌐 **Connect With Me**  
+📫 **Email**: [hello@johndoe.com](mailto:hello@johndoe.com)  
+💼 **LinkedIn**: [in/johndoe](https://linkedin.com/in/johndoe)  
+🐙 **GitHub**: [@johndoe](https://github.com/johndoe)  
+📝 **Blog**: [johndoe.dev](https://johndoe.dev)  
+
+*Open to collaborations on Go/embedded systems projects!*
