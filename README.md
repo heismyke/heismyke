@@ -33,6 +33,6 @@
 📫 **Email**: [hello@myke.com](mailto:mickienorman5@gmail.com)  
 💼 **LinkedIn**: [in/michael.s](https://www.linkedin.com/in/michael-shekwolo-8402111aa/)  
 🐙 **GitHub**: [@heismyke](https://github.com/heismyke)  
-📝 **Blog**: [myke.dev](https://mykael.me)  
+📝 **Blog**: [mykael.dev](https://mykael.me)  
 
 *Open to collaborations on Go/embedded systems projects!*
