@@ -3,7 +3,7 @@
 Software developer focused on scalable systems and embedded solutions.
 
 
-## Selected Work
+## Projects
 **[Local Business Booking API](https://github.com/heismyke/local_business_booking_backend)**  
 REST API with JWT auth and Redis caching
 
