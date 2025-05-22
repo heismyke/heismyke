@@ -1,38 +1,21 @@
-# Michael.S 
-🚀 *Building Scalable Systems & Embedded Solutions*
+# Michael S.
+
+Backend engineer focused on scalable systems and embedded solutions.
+
+## Stack
+Go • Java • Python • TypeScript  
+AWS • Kubernetes • PostgreSQL
+
+## Selected Work
+**[Local Business Booking API](https://github.com/heismyke/local_business_booking_backend)**  
+REST API with JWT auth and Redis caching
+
+**[Realtime Notifications](https://github.com/heismyke/upperroom-api-gateway/tree/main)**  
+Instagram monitoring with AWS Lambda integration
+
+**[Bootcamp Management](https://github.com/heismyke/bootcamp_v1)**  
+Go backend with role-based access control
 
 ---
 
-### 🔧 **Technical Stack**  
-**Languages**: `Java` `Python` `Typescript`  
-**Cloud & DevOps**: `AWS` `Kubernetes` `Terraform` `GitLab CI/CD`  
-**Embedded/IoT**: `Arduino` `Raspberry Pi` `Sensor Networks`  
-
----
-
-### 🏗️ **Key Projects**  
-
-#### 1. **Local Business Booking Backend**  
-   - REST API for booking local businesses (Go/Gin)  
-   - Features: JWT Auth, PostgreSQL, Redis caching  
-   - [GitHub](https://github.com/heismyke/local_business_booking_backend)  
-
-#### 2. **Realtime Notification for Dunsin Oyekan**  
-   - Instagram post monitor for "Upper Room" concert alerts  
-   - Features: RSS feed generation, AWS Lambda, SMS alerts  
-   - [GitHub](https://github.com/heismyke/upperroom-api-gateway/tree/main)  
-
-#### 3. **Bootcamp Management System**  
-   - Go-based backend for managing coding bootcamps  
-   - Features: CRUD operations, role-based access, Swagger docs  
-   - [GitHub](https://github.com/heismyke/bootcamp_v1) 
-
----
-
-### 🌐 **Connect With Me**  
-📫 **Email**: [hello@myke.com](mailto:mickienorman5@gmail.com)  
-💼 **LinkedIn**: [in/michael.s](https://www.linkedin.com/in/michael-shekwolo-8402111aa/)  
-🐙 **GitHub**: [@heismyke](https://github.com/heismyke)  
-📝 **Blog**: [mykael.dev](https://mykael.me)  
-
-*Open to collaborations on Go/embedded systems projects!*
+[Email](mailto:mickienorman5@gmail.com) • [LinkedIn](https://www.linkedin.com/in/michael-shekwolo-8402111aa/) • [Blog](https://mykael.me)
