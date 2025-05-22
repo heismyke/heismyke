@@ -14,4 +14,5 @@ A serverless document management solution that automatically tracks expiration d
 This project is a backend API clone of the Internet Movie Database (IMDB), developed using Django REST Framework (DRF) and PostgreSQL. It offers endpoints for managing movies, reviews, and user interactions, incorporating robust authentication, filtering, and testing mechanisms.
 
 ---
-## Contact you can contact me: [Email](mailto:mickienorman5@gmail.com) 
+## Contact 
+You can contact me: [mickienorman5@gmail.com](mailto:mickienorman5@gmail.com) 
