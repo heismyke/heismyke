@@ -4,7 +4,7 @@
 ---
 
 ### 🔧 **Technical Stack**  
-**Languages**: `Go` `TypeScript` `C++`  
+**Languages**: `Java` `Python` `Typescript`  
 **Cloud & DevOps**: `AWS` `Kubernetes` `Terraform` `GitLab CI/CD`  
 **Embedded/IoT**: `Arduino` `Raspberry Pi` `Sensor Networks`  
 
