@@ -3,9 +3,9 @@
 Software developer focused on scalable systems and embedded solutions.
 
 ## Stack
-Languages: Go • Java • Python • TypeScript
-Infrastructure: AWS • Apache Kafka • PostgreSQL
-Frameworks: Spring AI • Spring Boot • Django
+**Languages**: Go • Java • Python • TypeScript  
+**Infrastructure**: AWS • Apache Kafka • PostgreSQL  
+**Frameworks**: Spring AI • Spring Boot • Django
 
 ## Selected Work
 **[Local Business Booking API](https://github.com/heismyke/local_business_booking_backend)**  
