@@ -15,5 +15,5 @@ This project is a backend API clone of the Internet Movie Database (IMDB), devel
 Blockchain media partner
 
 ---
-## Contact 
-You can contact me: [mickienorman5@gmail.com](mailto:mickienorman5@gmail.com) 
+## Connect With Me  
+You can connect with  me: [mickienorman5@gmail.com](mailto:mickienorman5@gmail.com) 
